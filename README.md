@@ -1,4 +1,4 @@
-# 🚀 Laboratorio de Phishing: Aprendiendo de la Simulación 🎓
+# 🚀 Laboratorio de Phishing 🚀
 
 Recientemente, en mi empresa, tuve la oportunidad de organizar una campaña de phishing a pesar de disponer de herramientas automatizadas para estas campañas, he montado un pequeño servidor y configurado la herramienta Gophish para entender como funcionan estos ataques. Para compartir lo aprendido, he preparado una guía detallada sobre el laboratorio, que explica cada paso del proceso.
 
