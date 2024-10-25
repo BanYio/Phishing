@@ -22,9 +22,9 @@ El uso indebido de estas técnicas para llevar a cabo actividades malintencionad
 # Extra
 
 En este repositorio podeis encontrar:
-- PDF: La guia del laboratorio
-- Landing Page: La langing page configurada en este laboratorio en formato .html
-- Email Template: El email template empleado en esta guia en formato .html
+- **PDF:** La guia del laboratorio
+- **Landing Page:** La langing page configurada en este laboratorio en formato .html
+- **Email Template:** El email template empleado en esta guia en formato .html
 
 ## Email template
 
