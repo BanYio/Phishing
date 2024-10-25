@@ -1,4 +1,4 @@
-#🚀 Laboratorio de Phishing: Aprendiendo de la Simulación 🎓
+## 🚀 Laboratorio de Phishing: Aprendiendo de la Simulación 🎓
 
 Recientemente, en mi empresa, tuve la oportunidad de liderar una campaña de phishing utilizando Gophish y un servidor Ubuntu. Para compartir lo aprendido, he preparado una guía detallada sobre el laboratorio, que explica cada paso del proceso.
 
