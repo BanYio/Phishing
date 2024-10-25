@@ -11,7 +11,7 @@ Recientemente, en mi empresa, tuve la oportunidad de organizar una campaña de p
 
 💡 Este laboratorio subraya la importancia de la educación continua en ciberseguridad y muestra cómo las simulaciones son herramientas efectivas para fortalecer la cultura de seguridad en las organizaciones.
 
-Si estás interesado en aprender sobre ciberseguridad y phishing, ¡te invito a leer la guía! 🔒✨
+Si estás interesado en aprender sobre ciberseguridad y phishing, ¡te invito a leer esta guía! 🔒✨
 
 # Discalimer
 
